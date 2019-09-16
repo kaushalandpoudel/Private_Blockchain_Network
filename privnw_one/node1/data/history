@@ -1,0 +1,144 @@
+admin.peers
+admin.nodeInfo.enode
+admin.peers
+personal.listAccount
+personal.listAccounts
+admin.peers
+personal.listAccounts
+person.unlockAccount("0xe7042b360c703f86c8d8bceec73d4f545dab3744")
+generatedSymKey=shh.generateSymKeyFromPassword("hello");
+symKey=shh.getSymKey(generatedSymKey)
+symKeyID=shh.addSymKey(symKey)
+filter = web3.shh.newMessageFilter(
+        {symKeyID: symKeyID, topic: '0x07678231'}, 
+        function(err, res) {console.log(web3.toUtf8(res.payload))});
+symKeyId
+filter = web3.shh.newMessageFilter(
+        {symKeyID: symKeyID, topic: '0x07678231'}, 
+        function(err, res) {console.log(web3.toUtf8(res.payload))});
+generatedSymKey=shh.generateSymKeyFromPassword("hello");
+symKey=shh.getSymKey(generatedSymKey)
+symKeyID=shh.addSymKey(symKey)
+filter = web3.shh.newMessageFilter(
+        {symKeyID: symKeyID, topic: '0x07678231'}, 
+        function(err, res) {console.log(web3.toUtf8(res.payload))});
+generatedSymKey=shh.generateSymKeyFromPassword("hello");
+symKey=shh.getSymKey(generatedSymKey)
+symKeyID=shh.addSymKey(symKey)
+filter = web3.shh.newMessageFilter({symKeyID: symKeyID, topic: '0x07678231'}, function(err, res) {console.log(web3.toUtf8(res.payload))});
+web3.shh.post({symKeyID: 'e7dd4de85b5a045c12a3dc0c76724303871b0365e8b4baba23750ae00d32b16e',ttl: 10,topic: '0x07678231',  powTarget: 2.01,  powTime: 2,  payload: web3.fromAscii("Hello there!")  });
+web3.shh.post({symKeyID: 'e7dd4de85b5a045c12a3dc0c76724303871b0365e8b4baba23750ae00d32b16e',ttl: 10,topic: '0x07678231',  powTarget: 2.01,  powTime: 2,  payload: web3.fromAscii("Heltesadfaasdf t ad e!")  });
+generatedSymKey=shh.generateSymKeyFromPassword("hello");
+symKey=shh.getSymKey(generatedSymKey)
+symKeyID=shh.addSymKey(symKey)
+filter = web3.shh.newMessageFilter(
+        {symKeyID: symKeyID, topic: '0x07678231'}, 
+        function(err, res) {console.log(web3.toUtf8(res.payload))});
+web3.shh.post({symKeyID: '1095d46c277a85fbee93262d106ba29d6e30faf3bb0ec9f002b73bb80186ecd0',ttl: 10,topic: '0x07678231',  powTarget: 2.01,  powTime: 2,  payload: web3.fromAscii("Hello there 2!")  });
+admin.peers
+admin.addPeer("enode://34f4a7cf5d20b33dd39bb9ae0549e8a4dac0eee26c5c0ef28e8fd38a4be42d5ae1a49bc251542cc480131e153925a934fb932dc045929c5ae623f818b01fce16@127.0.0.1:30304?discport=0")
+web3.shh.post({symKeyID: '1095d46c277a85fbee93262d106ba29d6e30faf3bb0ec9f002b73bb80186ecd0',ttl: 10,topic: '0x07678231',  powTarget: 2.01,  powTime: 2,  payload: web3.fromAscii("Hello there 2!")  });
+generatedSymKey=web3.shh.generateSymKeyFromPassword("hello");
+clear
+cls
+web3.shh.post({symKeyID: '1095d46c277a85fbee93262d106ba29d6e30faf3bb0ec9f002b73bb80186ecd0',ttl: 10,topic: '0x07678231',  powTarget: 2.01,  powTime: 2,  payload: web3.fromAscii("Message from node 1")  });
+filter = web3.shh.newMessageFilter(
+        {symKeyID: symKeyID, topic: '0x07678231'}, 
+        function(err, res) {console.log(web3.toUtf8(res.payload))});
+filter = web3.shh.newMessageFilter({symKeyID: symKeyID, topic: '0x07678231'}, function(err, res) {console.log(res)});
+admin.peers
+person.getAccounts()
+personal.getAccounts()
+personal.getAccount()
+personal
+personal.getListAccounts()
+getListAccounts()
+personal.listAccounts()
+listAccounts()
+personal.listAccounts
+eth.getBalance("0xe7042b360c703f86c8d8bceec73d4f545dab3744")
+miner.start()
+eth.getBalance("0xe7042b360c703f86c8d8bceec73d4f545dab3744")
+miner.stop()
+eth
+eth.getbalance("0xe7042b360c703f86c8d8bceec73d4f545dab3744")
+eth.getBalance("0xe7042b360c703f86c8d8bceec73d4f545dab3744")
+geth
+eth
+eth.getAccount()
+eth.getAccounts
+eth.getAccounts()
+eth.listAccounts
+eth
+web3
+personal.listAccounts
+personal
+miner.start()
+personal
+miner.start()
+personal
+miner.start()
+eth.getBlock("latest").gasLimit
+personal
+miner.start()
+miner.stop()
+exi
+miner
+miner.start()
+miner.stop()
+miner.stop
+miner.stop()
+personal
+miner.start()
+eth
+personal
+eth.getBalance("0xe7042b360c703f86c8d8bceec73d4f545dab3744")
+miner.start()
+admin.addPeer("enode://34f4a7cf5d20b33dd39bb9ae0549e8a4dac0eee26c5c0ef28e8fd38a4be42d5ae1a49bc251542cc480131e153925a934fb932dc045929c5ae623f818b01fce16@127.0.0.1:30304?discport=0")
+miner.start()
+exiy
+admin.addPeer("enode://34f4a7cf5d20b33dd39bb9ae0549e8a4dac0eee26c5c0ef28e8fd38a4be42d5ae1a49bc251542cc480131e153925a934fb932dc045929c5ae623f818b01fce16@127.0.0.1:30304?discport=0")
+personl
+personal
+miner.start()
+personal
+miner.start()
+eexit
+personal
+miner.start()
+personal
+miner.start()
+ecit
+personal
+miner.start
+miner.start()
+personal
+miner.start()
+personal
+miner.start()
+admin.addPeer("enode://34f4a7cf5d20b33dd39bb9ae0549e8a4dac0eee26c5c0ef28e8fd38a4be42d5ae1a49bc251542cc480131e153925a934fb932dc045929c5ae623f818b01fce16@127.0.0.1:30304?discport=0")
+admin.peers
+miner.start()
+admin.peer
+admin.peers
+miner.start()
+mexit
+miner.start()
+admin.addPeer("enode://34f4a7cf5d20b33dd39bb9ae0549e8a4dac0eee26c5c0ef28e8fd38a4be42d5ae1a49bc251542cc480131e153925a934fb932dc045929c5ae623f818b01fce16@127.0.0.1:30304?discport=0")
+miner.start()
+admin.addPeer("enode://34f4a7cf5d20b33dd39bb9ae0549e8a4dac0eee26c5c0ef28e8fd38a4be42d5ae1a49bc251542cc480131e153925a934fb932dc045929c5ae623f818b01fce16@127.0.0.1:30304?discport=0")
+miner.start()
+personal
+miner.start()
+admin.addPeer("enode://34f4a7cf5d20b33dd39bb9ae0549e8a4dac0eee26c5c0ef28e8fd38a4be42d5ae1a49bc251542cc480131e153925a934fb932dc045929c5ae623f818b01fce16@127.0.0.1:30304?discport=0")
+miner.start()
+esit
+miner.start()
+miner.start(1)
+miner.stop
+miner.stop()
+miner.start()
+miner.start(1)
+personal
+miner.start(1)
+miner.start()

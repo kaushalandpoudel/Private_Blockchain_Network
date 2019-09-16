@@ -1,0 +1,71 @@
+admin.addPeers("enode://c25b81b8ee1a8e7f1c820793aec423a6de87e80ea4ab20c125e19908ea4e126f3390e9d1b65127feed0a873b104ade28dfe3d3243053841899f17e3d104117ec@127.0.0.1:30303?discport=0")
+admin.addPeer("enode://c25b81b8ee1a8e7f1c820793aec423a6de87e80ea4ab20c125e19908ea4e126f3390e9d1b65127feed0a873b104ade28dfe3d3243053841899f17e3d104117ec@127.0.0.1:30303?discport=0")
+admin.peers
+personal.listAccounts
+personal
+admin.peers
+web3
+admin.peers
+admin
+admin.addPeers("enode://c25b81b8ee1a8e7f1c820793aec423a6de87e80ea4ab20c125e19908ea4e126f3390e9d1b65127feed0a873b104ade28dfe3d3243053841899f17e3d104117ec@127.0.0.1:30303?discport=0")
+admin.addPeer("enode://c25b81b8ee1a8e7f1c820793aec423a6de87e80ea4ab20c125e19908ea4e126f3390e9d1b65127feed0a873b104ade28dfe3d3243053841899f17e3d104117ec@127.0.0.1:30303?discport=0")
+web3.
+web3
+personal
+shh
+admin.peers
+admin.addPeer("enode://c25b81b8ee1a8e7f1c820793aec423a6de87e80ea4ab20c125e19908ea4e126f3390e9d1b65127feed0a873b104ade28dfe3d3243053841899f17e3d104117ec@127.0.0.1:30303?discport=0")
+admin.peers
+admin.addPeer("enode://c25b81b8ee1a8e7f1c820793aec423a6de87e80ea4ab20c125e19908ea4e126f3390e9d1b65127feed0a873b104ade28dfe3d3243053841899f17e3d104117ec@127.0.0.1:30303?discport=0")
+generatedSymKey=shh.generateSymKeyFromPassword("hello");
+symKey=shh.getSymKey(generatedSymKey)
+symKeyID=shh.addSymKey(symKey)
+filter = web3.shh.newMessageFilter({symKeyID: symKeyID, topic: '0x07678231'}, function(err, res) {console.log(web3.toUtf8(res.payload))});
+web3.shh.post({symKeyID: '52b141b8a80022b134a166c1494a8247f5c94f62eb57ae3cf311c5fd2d86270a',ttl: 10,topic: '0x07678231',  powTarget: 2.01,  powTime: 2,  payload: web3.fromAscii("Hello there 2!")  });
+generatedSymKey=shh.generateSymKeyFromPassword("hello");
+symKey=shh.getSymKey(generatedSymKey)
+symKeyID=shh.addSymKey(symKey)
+filter = web3.shh.newMessageFilter(
+        {symKeyID: symKeyID, topic: '0x07678231'}, 
+        function(err, res) {console.log(web3.toUtf8(res.payload))});
+web3.shh.post({symKeyID: '643d5fee5197ee7b5eed71129c00610bb0f5a0eb92815fa94d0048824bbb3fe7',ttl: 10,topic: '0x07678231',  powTarget: 2.01,  powTime: 2,  payload: web3.fromAscii("Hello therasdf!")  });
+web3.shh.post({symKeyID: '643d5fee5197ee7b5eed71129c00610bb0f5a0eb92815fa94d0048824bbb3fe7',ttl: 10,topic: '0x07678231',  powTarget: 2.01,  powTime: 2,  payload: web3.fromAscii("Message from node 2")  });
+filter = web3.shh.newMessageFilter({symKeyID: symKeyID, topic: '0x07678231'}, function(err, res) {console.log(res)});
+filter = web3.shh.newMessageFilter({symKeyID: symKeyID, topic: '0x07678231'}, function(err, res) {console.log(res.payload)});
+console.log(filter)
+console.log(filter.filterId)
+console.log(filter..watch())
+console.log(filter..watch)
+asd
+personal
+miner.start()
+admin.peers
+personal
+admin.addPeer("enode://c25b81b8ee1a8e7f1c820793aec423a6de87e80ea4ab20c125e19908ea4e126f3390e9d1b65127feed0a873b104ade28dfe3d3243053841899f17e3d104117ec@127.0.0.1:30303?discport=0")
+admin.peer
+admin.peers
+admin.peer
+admin.peers
+miner.start()
+persoanl
+personal
+admin.addPeer("enode://c25b81b8ee1a8e7f1c820793aec423a6de87e80ea4ab20c125e19908ea4e126f3390e9d1b65127feed0a873b104ade28dfe3d3243053841899f17e3d104117ec@127.0.0.1:30303?discport=0")
+admin.peers
+admin.addPeer("enode://c25b81b8ee1a8e7f1c820793aec423a6de87e80ea4ab20c125e19908ea4e126f3390e9d1b65127feed0a873b104ade28dfe3d3243053841899f17e3d104117ec@127.0.0.1:30303?discport=0")
+miner.start()
+eexit
+admin.addPeer("enode://c25b81b8ee1a8e7f1c820793aec423a6de87e80ea4ab20c125e19908ea4e126f3390e9d1b65127feed0a873b104ade28dfe3d3243053841899f17e3d104117ec@127.0.0.1:30303?discport=0")
+miner.start()
+miner.start(1)
+miner.stop()
+miner.start(1)
+miner.stop()
+miner.start()
+miner.stop()
+personal
+miner.start(1)
+miner.stop()
+admin.addPeer("enode://c25b81b8ee1a8e7f1c820793aec423a6de87e80ea4ab20c125e19908ea4e126f3390e9d1b65127feed0a873b104ade28dfe3d3243053841899f17e3d104117ec@127.0.0.1:30303?discport=0")
+miner.start(1)
+admin.addPeer("enode://c25b81b8ee1a8e7f1c820793aec423a6de87e80ea4ab20c125e19908ea4e126f3390e9d1b65127feed0a873b104ade28dfe3d3243053841899f17e3d104117ec@127.0.0.1:30303?discport=0")
+miner.start(1)
